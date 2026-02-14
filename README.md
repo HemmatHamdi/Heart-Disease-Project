@@ -1,2 +1,18 @@
-# Heart-Disease-Project
-Machine learning project for heart disease prediction using a complete data science pipeline. Includes data preprocessing, PCA, feature selection, supervised and unsupervised learning, and hyperparameter tuning to optimize model performance and support early risk detection.
+# Heart Disease Prediction Project
+
+## Description
+This project predicts heart disease using machine learning models including:
+- Logistic Regression
+- Decision Tree
+- Random Forest
+- SVM
+- XGBoost
+
+It also performs clustering using KMeans and Agglomerative Clustering.
+
+# Project Structure
+- `models/` : saved ML models
+- `results/` : evaluation metrics
+- `data/` : dataset files
+- `notebooks/` : any Jupyter notebooks (if any)
+
